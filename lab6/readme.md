@@ -16,5 +16,5 @@
 
 # Professional Membership
 * Pick one of the organization and report the purpose of the organization and why membership would be beneficial.
-* Conclusion
-© 2020 GitHub, Inc.
+# Conclusion
+
